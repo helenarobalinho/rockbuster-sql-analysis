@@ -15,7 +15,7 @@ Facing increased competition from streaming platforms, Rockbuster Stealth LLC pl
 - Tableau Public: data visualization and dashboarding  
 
 ## Methodology
-1. Loaded the Rockbuster dataset into PostgreSQL and explored table structure, relationships and schema (ERD, data dictionary).
+1. Loaded the Rockbuster dataset into PostgreSQL and explored table structure, relationships, and schema (ERD, data dictionary).
 2. Used SQL aggregates to profile film and customer data and check for inconsistencies or missing values.
 3. Combined multiple tables using joins, subqueries, and CTEs to prepare datasets for analysis.
 4. Analyzed customer distribution and revenue by geography to identify key markets and high-value customers.
@@ -23,11 +23,11 @@ Facing increased competition from streaming platforms, Rockbuster Stealth LLC pl
 6. Exported SQL outputs and built Tableau visualizations to present insights.
 
 ## Key Findings
-- India, China, and the United States generate the highest revenue and represent the most important expansion markets  
-- Sports, Sci-Fi, and Animation are the top-performing genres in terms of revenue and rentals  
-- Average rental duration is approximately 5 days, indicating short-term, intent-driven viewing behavior
+- India, China, and the United States generate the highest revenue and are the top expansion markets  
+- Sports, Sci-Fi, and Animation are the top-performing genres by revenue and rentals  
+- Average rental duration is ~5 days, indicating short-term, intent-driven viewing  
 
-You can explore the results here: [Tableau visualizations](https://public.tableau.com/app/profile/helena.robalinho/viz/RockbusterDataLaunchStrategyforOnlineVideoRental/Rentalsandrevenuebygenreandcountry)
+View the interactive visualizations on [Tableau Public](https://public.tableau.com/app/profile/helena.robalinho/viz/RockbusterDataLaunchStrategyforOnlineVideoRental/Rentalsandrevenuebygenreandcountry)
 
 ## Recommendations
 - Prioritize initial launch in India, China, and the United States  
@@ -36,5 +36,4 @@ You can explore the results here: [Tableau visualizations](https://public.tablea
 - Introduce customer retention strategies such as loyalty pricing, early access, and bundle offers  
 
 ---
-<sub>Author: Helena Robalinho</sub>  
-<sub>Project: CareerFoundry Data Analytics Immersion Program</sub>
+<sub>Author: Helena Robalinho · CareerFoundry Data Analytics Immersion Program</sub>

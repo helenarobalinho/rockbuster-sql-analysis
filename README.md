@@ -23,15 +23,15 @@ Facing increased competition from streaming platforms, Rockbuster Stealth LLC pl
 6. Exported SQL outputs and built Tableau visualizations to present insights.
 
 ## Key Findings
-- India, China and the United States generate the highest revenue and represent the most important expansion markets  
-- Sports, Sci-Fi and Animation are the top-performing genres in terms of revenue and rentals  
+- India, China, and the United States generate the highest revenue and represent the most important expansion markets  
+- Sports, Sci-Fi, and Animation are the top-performing genres in terms of revenue and rentals  
 - Average rental duration is approximately 5 days, indicating short-term, intent-driven viewing behavior
 
 You can explore the results here: [Tableau visualizations](https://public.tableau.com/app/profile/helena.robalinho/viz/RockbusterDataLaunchStrategyforOnlineVideoRental/Rentalsandrevenuebygenreandcountry)
 
 ## Recommendations
 - Prioritize initial launch in India, China, and the United States  
-- Focus early content strategy on Sports, Sci-Fi and Animation genres  
+- Focus early content strategy on Sports, Sci-Fi, and Animation genres  
 - Target high-value customers in top-performing cities  
 - Introduce customer retention strategies such as loyalty pricing, early access, and bundle offers  
 

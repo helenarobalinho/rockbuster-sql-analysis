@@ -27,7 +27,7 @@ Facing increased competition from streaming platforms, Rockbuster Stealth LLC pl
 - Sports, Sci-Fi, and Animation are the top-performing genres by revenue and rentals  
 - Average rental duration is ~5 days, indicating short-term, intent-driven viewing  
 
-View the interactive visualizations on [Tableau Public](https://public.tableau.com/app/profile/helena.robalinho/viz/RockbusterDataLaunchStrategyforOnlineVideoRental/Rentalsandrevenuebygenreandcountry)
+View the interactive visualizations on [Tableau Public](https://public.tableau.com/shared/H9K9K864D?:display_count=n&:origin=viz_share_link)
 
 ## Recommendations
 - Prioritize initial launch in India, China, and the United States  

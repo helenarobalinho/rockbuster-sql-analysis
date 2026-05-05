@@ -4,10 +4,13 @@
 Facing increased competition from streaming platforms, Rockbuster Stealth LLC plans to launch an online video rental service using its existing movie licenses. This analysis provides data-driven insights to support the company strategy, with a focus on revenue optimization, customer value, and geographic expansion.
 
 ## Key Questions
-- Which countries and regions are Rockbuster customers located in?
-- Do sales figures vary significantly across geographic regions?
+- What was the average rental duration for all videos?
+- Which movies contributed the most/least to revenue gain?
 - Which genres contributed the most to higher rentals and revenues?
-- What is the average rental duration across all videos?
+- Which countries are Rockbuster customers based in?
+- Do sales figures vary between geographic regions? 
+- Where are customers with a high lifetime value based?
+
 
 ## Tools used
 - PostgreSQL / pgAdmin4: database management and SQL analysis  
@@ -19,13 +22,14 @@ Facing increased competition from streaming platforms, Rockbuster Stealth LLC pl
 2. Used SQL aggregates to profile film and customer data and check for inconsistencies or missing values.
 3. Combined multiple tables using joins, subqueries, and CTEs to prepare datasets for analysis.
 4. Analyzed customer distribution and revenue by geography to identify key markets and high-value customers.
-5. Calculated KPIs such as revenue and rental counts across genres.
+5. Calculated KPIs such as revenue and rental counts across movie genres.
 6. Exported SQL outputs and built Tableau visualizations to present insights.
 
 ## Key Findings
 - India, China, and the United States generate the highest revenue and are the top expansion markets  
 - Sports, Sci-Fi, and Animation are the top-performing genres by revenue and rentals  
-- Average rental duration is ~5 days, indicating short-term, intent-driven viewing  
+- Average rental duration is ~ 5 days, indicating short-term, intent-driven viewing
+<img width="2162" height="1168" alt="image" src="https://github.com/user-attachments/assets/de21e522-42dc-40ca-a82c-a8b54f78de1e" />
 
 View the interactive visualizations on [Tableau Public](https://public.tableau.com/shared/H9K9K864D?:display_count=n&:origin=viz_share_link)
 

@@ -29,7 +29,8 @@ Facing increased competition from streaming platforms, Rockbuster Stealth LLC pl
 - India, China, and the United States generate the highest revenue and are the top expansion markets  
 - Sports, Sci-Fi, and Animation are the top-performing genres by revenue and rentals  
 - Average rental duration is ~ 5 days, indicating short-term, intent-driven viewing
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/de21e522-42dc-40ca-a82c-a8b54f78de1e" />
+<img width="1410" height="1288" alt="image" src="https://github.com/user-attachments/assets/3144ab68-3e2e-49e0-baa5-8dd709798a86" />
+
 
 View the interactive visualizations on [Tableau Public](https://public.tableau.com/shared/H9K9K864D?:display_count=n&:origin=viz_share_link)
 
